@@ -169,7 +169,7 @@ struct ContentView: View {
                             Text("Notifiche")
                         }
                     })
-                    
+                    //ssdfsfsffssf
                     NavigationLink(destination: { Suoni_e_feedback_aptico ()}, label: {
                         HStack {
                             Image(systemName: "speaker.wave.3.fill")
